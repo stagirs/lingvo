@@ -1,0 +1,8 @@
+/target/*
+.DS_Store
+/.idea/*
+lingvo.iml
+/lib/*
+/nbproject/
+mystem_input
+mystem_output
